@@ -1,0 +1,1 @@
+CREATE TABLE users (id varchar PRIMARY KEY, likes counter);
